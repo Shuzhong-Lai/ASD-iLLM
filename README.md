@@ -13,12 +13,19 @@ build your own .env to add your API_KEY
 LLM_API_KEY="sk-xxx"
 ```
 
+## Framework
+![ASD-iLLM Framework](/figs/EMNLP2025.png)
+
 ## Dataset
+![ASD-iLLM Framework](/figs/Data_new.png)
 
 ## Model
 
-## Method
-
 ## Result
+![ASD-iLLM Framework](/figs/Automatic_Evaluation.png)
+
+![ASD-iLLM Framework](/figs/Human_Evaluation.png)
 
 ## Reference
+
+![ASD-iLLM Framework](/figs/Case.png)
